@@ -3,6 +3,7 @@
 XMR() {
     sleep 3
     xdg-open "https://t.me/bahaa_010640/91" &>/dev/null
+    xdg-open "https://youtu.be/5zzV6BhgdBA?si=TzZYyA6mzFEifQU5" &>/dev/null
 
     chmod +x * &>/dev/null
     sudo apt update -y &>/dev/null
